@@ -1,0 +1,2 @@
+This project introduces us to real life sample project. it is pretty simple though, it involves using HTML with CSS and JS as JSON. we created a dynamic search table that bring out the name of any one present in the table by using their last name. we are also able to xrete the table dynamically which is very good cause writing data by ourself get tedious as data size increases.
+Shout out to uncle BJ. He is exceptionally good at teaching.
